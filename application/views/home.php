@@ -257,7 +257,7 @@
                      <div class="info">
                          <div class="address">
                              <i class="bi bi-geo-alt"></i>
-                             <h4>Location:</h4>
+                             <h4>Location :</h4>
                              <p>Jl. Kenangan No.03, Bekasi Utara </p>
                          </div>
 
